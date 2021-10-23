@@ -76,7 +76,7 @@ if(isset($_POST['update'])){
                                                         <!--LastName-->
                                                         <div class="mb-3">
                                                 <label for="email">Email</label>
-                                                <input id="email" class="form-control" type="text" name = "lastname" value="<?php echo $row['email'];?>" placeholder="Email" required>
+                                                <input id="email" class="form-control" type="text" name = "email" value="<?php echo $row['email'];?>" placeholder="Email" required>
                                                 </div>
 
 
